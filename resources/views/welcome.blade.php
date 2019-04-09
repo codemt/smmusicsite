@@ -97,9 +97,9 @@
         <section id="slides-1"> <!-- Slider -->
             <div class="overlay"></div>
             <div class="slides-container">
-                <img src="img/slider/ss1.jpg" alt='img'>
-                <img src="img/slider/ss2.jpg" alt='img'>
-                <img src="img/slider/mt4.jpg" alt='img'>
+                <img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836342/ss2.jpg" alt='img'>
+                <img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836692/ss14.jpg" alt='img'>
+                <img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836128/mt4.jpg" alt='img'>
         	</div>
         	<nav class="slides-navigation">
             	<a href="#" class="next"></a>
