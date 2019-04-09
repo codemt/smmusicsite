@@ -612,8 +612,8 @@
                     <section id="i-portfolio" class="clear">
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/ss1.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/ss1.jpg"> <!-- Set your gallery Group Name in rel="" field, ex: rel="group-one" -->
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836316/ss1.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836316/ss1.jpg"> <!-- Set your gallery Group Name in rel="" field, ex: rel="group-one" -->
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -622,7 +622,7 @@
 
                         <div class="ch-grid element">
                             <img class="ch-item" src="img/gallery/thumb-02.jpg" alt='img' />
-                            <a href="https://www.youtube.com/watch?v=WImWuxHbQCw" rel="" class="fancybox-media">
+                            <a href="https://www.youtube.com/watch?v=IvXd-Rk9QKo" rel="" class="fancybox-media">
                                 <div>
                                     <span class="p-category video"></span>
                                 </div>
@@ -630,8 +630,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/ss3.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/ss3.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836337/ss3.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836337/ss3.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -640,7 +640,7 @@
 
                         <div class="ch-grid element">
                             <img class="ch-item" src="img/gallery/thumb-04.jpg" alt='img' />
-                            <a href="http://vimeo.com/29577474" class="fancybox-media" rel="">
+                            <a href="https://www.youtube.com/watch?v=SI0cl-3g7Jc" class="fancybox-media" rel="">
                                 <div>
                                     <span class="p-category video"></span>
                                 </div>
@@ -648,8 +648,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/ss9.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/ss9.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836413/ss9.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836413/ss9.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -657,8 +657,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/ss10.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/ss10.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836431/ss10.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836431/ss10.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -667,7 +667,7 @@
 
                         <div class="ch-grid element">
                             <img class="ch-item" src="img/gallery/thumb-10.jpg" alt='img' />
-                            <a href="https://www.youtube.com/watch?v=WImWuxHbQCw" rel="" class="fancybox-media">
+                            <a href="https://www.youtube.com/watch?v=Wcee_fcpJng" rel="" class="fancybox-media">
                                 <div>
                                     <span class="p-category video"></span>
                                 </div>
@@ -676,7 +676,7 @@
 
                         <div class="ch-grid element">
                             <img class="ch-item" src="img/gallery/thumb-10.jpg" alt='img' />
-                            <a href="http://vimeo.com/29577474" class="fancybox-media" rel="">
+                            <a href="https://www.youtube.com/watch?v=t_4hBnAxJ90" class="fancybox-media" rel="">
                                 <div>
                                     <span class="p-category video"></span>
                                 </div>
@@ -684,8 +684,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/mt4.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/mt4.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836210/mt7.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836210/mt7.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -693,8 +693,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/mt11.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/mt11.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836279/mt11.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836279/mt11.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -702,8 +702,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/mt7.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/mt7.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836237/mt8.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836237/mt8.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
@@ -711,8 +711,8 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="img/gallery/thumb-12.jpg" alt='img' />
-                            <a class="fancybox img-lightbox" rel="" href="img/gallery/thumb-12.jpg">
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836692/ss14.jpg" alt='img' />
+                            <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836692/ss14.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
                                 </div>
