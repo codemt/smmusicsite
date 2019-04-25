@@ -693,7 +693,7 @@
                         </div>
 
                         <div class="ch-grid element">
-                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836279/mt11.jpg" alt='img' />
+                            <img class="ch-item" src="https://res.cloudinary.com/dazzqcenn/image/upload/v1555950266/sm2.png" alt='img' />
                             <a class="fancybox img-lightbox" rel="" href="https://res.cloudinary.com/dazzqcenn/image/upload/v1554836279/mt11.jpg">
                                 <div>
                                     <span class="p-category photo"></span>
