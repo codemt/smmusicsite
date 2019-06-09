@@ -116,9 +116,9 @@
                     <div class="spacer-box"></div>
                     <ul>
                         
-                        <li class="t-current"><span>SMMusic</span> SMMusic is a Vision , to Give a Platform to Talented and Skilled Artists across india to publish there Songs and Promote thier Art. We are a Company Trying to Create Opportunities for Young and Upcoming Artists to showcase<span>Their Songs to the World</span></li>
+                        <li class="t-current"><span>SMMusic</span> SMMusic is a Vision , to Give a Platform to Talented and Skilled Artists across india to publish there Songs and Promote thier Art. We are a Music Studio Trying to Create Opportunities for Young and Upcoming Artists to showcase<span>Their Songs to the World</span></li>
                         {{-- <li class="">One Label , <span> Many Artists</span></li> --}}
-                        <li class=""><span>SMMusic</span> SMMusic is a Vision , to Give a Platform to Talented and Skilled Artists across india to publish there Songs and Promote thier Art. We are a Label Trying to Create Opportunities for Young and Upcoming Artists to showcase<span>Their Songs to the World</span></li>
+                        <li class=""><span>SMMusic</span> SMMusic is a Vision , to Give a Platform to Talented and Skilled Artists across india to publish there Songs and Promote thier Art. We are a Music Studio Trying to Create Opportunities for Young and Upcoming Artists to showcase<span>Their Songs to the World</span></li>
                     </ul>
                 </div>
             </div>
